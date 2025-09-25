@@ -1,4 +1,4 @@
 package com.example.ijaskz;
 
-public class CiRcLe {
+public class CiRcLe extends Shape {
 }
