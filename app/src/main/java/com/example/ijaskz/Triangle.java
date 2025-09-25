@@ -1,4 +1,5 @@
 package com.example.ijaskz;
 
-public class CiRcLe extends Shape {
+public class Triangle extends Shape {
+    string color = "orange";
 }
